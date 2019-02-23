@@ -5,7 +5,6 @@
  ;; If there is more than one, they won't work right.
  '(column-number-mode t)
  '(display-time-mode t)
- '(package-selected-packages (quote (auctex)))
  '(show-paren-mode t)
  '(tool-bar-mode nil)
  '(tooltip-mode nil))
